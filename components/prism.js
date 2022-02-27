@@ -1,0 +1,2 @@
+export const cLunaQuery = {"simulate_swap_operations":{"offer_amount":"1000000","operations":[{"prism_swap":{"offer_asset_info":{"native":"uluna"},"ask_asset_info":{"cw20":"terra1dh9478k2qvqhqeajhn75a2a7dsnf74y5ukregw"}}},{"prism_swap":{"offer_asset_info":{"cw20":"terra1dh9478k2qvqhqeajhn75a2a7dsnf74y5ukregw"},"ask_asset_info":{"cw20":"terra13zaagrrrxj47qjwczsczujlvnnntde7fdt0mau"}}}]}}
+export const cLunaContract = "terra1yrc0zpwhuqezfnhdgvvh7vs5svqtgyl7pu3n6c";
